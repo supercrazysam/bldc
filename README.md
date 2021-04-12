@@ -86,7 +86,7 @@ Install the gcc-arm-embedded toolchain. Recommended version ```gcc-arm-none-eabi
 
 **Method 1 - Through Official GNU Arm Embedded Toolchain Downloads**
 1. Go to [GNU Arm Embedded Toolchain Downloads](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
-2. Locate and Download version **gcc-arm-none-eabi-7-2018-q2**  
+2. Locate and Download version **gcc-arm-none-eabi-7-2018-q2** for your machine
    ```GNU Arm Embedded Toolchain: 7-2018-q2-update     June 27, 2018```  
    Linux 64-bit version can be downloaded from [here](https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2?revision=bc2c96c0-14b5-4bb4-9f18-bceb4050fee7?product=GNU%20Arm%20Embedded%20Toolchain,64-bit,,Linux,7-2018-q2-update)  
 3. Unpack the archive in the file manager by right-clicking on it and select "extract here"
